@@ -135,7 +135,6 @@
         </div>
       </div>
     </section>
-
     <section class="section-project">
       <div class="text-center mb-3 pt-4">
         <p class="text-pink sub-title-project">My Project</p>
@@ -211,6 +210,101 @@
             </div>
           </div>
         </div>
+      </div>
+    </section>
+    <section class="section-blog">
+      <div class="text-center mb-5 pt-4">
+        <p class="text-biru sub-title-blog">Blog</p>
+        <h2 class="title-blog">Last Update</h2>
+        <!-- <p class="text-blog">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </p> -->
+      </div>
+      <div class="container">
+        <h4 class="text-biru fw-bolder">Coming Soon !</h4>
+        <!-- <div class="row mt-5 mb-5" data-aos="fade-up" data-aos-duration="3000">
+          <div class="col-md-4 mb-3">
+            <div class="card bg-dark text-white">
+              <img
+                src="assets/image/constant-loubier-7lzIyp2Ork4-unsplash.jpg"
+                class="section-blog-img"
+              />
+              <div
+                class="card-img-overlay d-flex align-items-start flex-column bd-highlight mb-3"
+              >
+                <h5
+                  class="mb-auto card-title btn btn-sm bg-kuning rounded-pill"
+                >
+                  14 SEP 2020
+                </h5>
+                <p class="card-text btn bg-biru">Technology</p>
+                <p class="card-text btn bg-pink">Tutorial</p>
+              </div>
+            </div>
+            <h4 class="title-artikel">Lorem Ipsum Doalr Sit Amet.</h4>
+            <p class="text-artikel">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              pharetra aliquet sit auctor et lacus sit elementum dignissim.
+            </p>
+            <button class="btn-bg-biru btn btn-sm text-white">
+              READ MORE <i class="fas fa-long-arrow-alt-right"></i>
+            </button>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card bg-dark text-white">
+              <img
+                src="assets/image/juan-gomez-kt-wA0GDFq8-unsplash.jpg"
+                class="section-blog-img"
+              />
+              <div
+                class="card-img-overlay d-flex align-items-start flex-column bd-highlight mb-3"
+              >
+                <h5
+                  class="mb-auto card-title btn btn-sm bg-kuning rounded-pill"
+                >
+                  14 SEP 2020
+                </h5>
+                <p class="card-text btn bg-biru">Technology</p>
+                <p class="card-text btn bg-pink">Tutorial</p>
+              </div>
+            </div>
+            <h4 class="title-artikel">Lorem Ipsum Doalr Sit Amet.</h4>
+            <p class="text-artikel">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              pharetra aliquet sit auctor et lacus sit elementum dignissim.
+            </p>
+            <button class="btn-bg-biru btn btn-sm text-white">
+              READ MORE <i class="fas fa-long-arrow-alt-right"></i>
+            </button>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card bg-dark text-white">
+              <img
+                src="assets/image/constant-loubier-7lzIyp2Ork4-unsplash.jpg"
+                class="section-blog-img"
+              />
+              <div
+                class="card-img-overlay d-flex align-items-start flex-column bd-highlight mb-3"
+              >
+                <h5
+                  class="mb-auto card-title btn btn-sm bg-kuning rounded-pill"
+                >
+                  14 SEP 2020
+                </h5>
+                <p class="card-text btn bg-biru">Technology</p>
+                <p class="card-text btn bg-pink">Tutorial</p>
+              </div>
+            </div>
+            <h4 class="title-artikel">Lorem Ipsum Doalr Sit Amet.</h4>
+            <p class="text-artikel">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              pharetra aliquet sit auctor et lacus sit elementum dignissim.
+            </p>
+            <button class="btn-bg-biru btn btn-sm text-white">
+              READ MORE <i class="fas fa-long-arrow-alt-right"></i>
+            </button>
+          </div>
+        </div> -->
       </div>
     </section>
   </div>
