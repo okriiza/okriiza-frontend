@@ -146,7 +146,14 @@
       </div>
 
       <div class="container mt-5">
-        <div class="row my-5" v-for="project in projects" :key="project.id">
+        <div
+          class="row my-5"
+          v-for="project in projects"
+          :key="project.id"
+          data-aos="fade-up"
+          data-aos-duration="1500"
+          data-aos-delay="900"
+        >
           <div class="col-md-5">
             <carousel :items-to-show="1.5">
               <slide v-for="image in project.images" :key="image.id">
@@ -169,7 +176,12 @@
               </template>
             </carousel>
           </div>
-          <div class="col-md-7">
+          <div
+            class="col-md-7"
+            data-aos="fade-up"
+            data-aos-duration="1500"
+            data-aos-delay="1100"
+          >
             <h3 class="fw-bolder">{{ project.name }}</h3>
             <hr />
             <div class="">

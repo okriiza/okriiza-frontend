@@ -3,7 +3,7 @@
 </script>
 <template>
   <footer class="section-footer text-center">
-    <div class="container">
+    <div class="container pb-1">
       <div class="text-logo font-weight-bold">
         <IconFooter />
       </div>
