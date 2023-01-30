@@ -15,20 +15,18 @@ export const useProjectStore = defineStore('project', {
   state: () => ({
     projects: [
       {
-        id: 3,
-        name: 'Sistem Informasi Inventory',
+        id: 1,
+        name: 'Lembaga Bimbingan The Bright Karawang ',
         description:
-          'Website ini terdapat fitur kelola produk, transaksi, laporan transaksi barang masuk dan keluar, print faktur.',
-        images: [
-          { id: 1, url: Kasirku1, title: 'Dashboard' },
-          { id: 2, url: Kasirku2, title: 'Tansaksi penjualan' },
-        ],
+          'Website yang terdapat fitur Sistem Absensi, Penggajian Karyawan dan halaman landing page',
+        images: [{ id: 1, url: TheBrightImage, title: 'Landing Page' }, { id: 2, url: TheBrightImage1, title: 'Dashboard Admin' }],
         stacks: [
-          { id: 1, name: 'Php', icon: PhpLogo, color: 'text-bg-secondary' },
+          { id: 1, name: 'Laravel', icon: LaravelLogo, color: 'text-bg-danger' },
           { id: 2, name: 'Mysql', icon: MySqlLogo, color: 'text-bg-warning' },
           { id: 3, name: 'Bootstrap', icon: BootstrapLogo, color: 'text-bg-primary' },
+          { id: 6, name: 'Figma', icon: PhpLogo, color: 'text-bg-secondary' },
         ],
-        urlProject: '#',
+        urlProject: 'https://thebrightcourse.com',
       },
       {
         id: 2,
@@ -48,19 +46,22 @@ export const useProjectStore = defineStore('project', {
         urlProject: 'https://ramawisata.netlify.app/',
       },
       {
-        id: 1,
-        name: 'Lembaga Bimbingan The Bright Karawang ',
+        id: 3,
+        name: 'Sistem Informasi Inventory',
         description:
-          'Website yang terdapat fitur Sistem Absensi, Penggajian Karyawan dan halaman landing page',
-        images: [{ id: 1, url: TheBrightImage, title: 'Landing Page' }, { id: 2, url: TheBrightImage1, title: 'Dashboard Admin' }],
+          'Website ini terdapat fitur kelola produk, transaksi, laporan transaksi barang masuk dan keluar, print faktur.',
+        images: [
+          { id: 1, url: Kasirku1, title: 'Dashboard' },
+          { id: 2, url: Kasirku2, title: 'Tansaksi penjualan' },
+        ],
         stacks: [
-          { id: 1, name: 'Laravel', icon: LaravelLogo, color: 'text-bg-danger' },
+          { id: 1, name: 'Php', icon: PhpLogo, color: 'text-bg-secondary' },
           { id: 2, name: 'Mysql', icon: MySqlLogo, color: 'text-bg-warning' },
           { id: 3, name: 'Bootstrap', icon: BootstrapLogo, color: 'text-bg-primary' },
-          { id: 6, name: 'Figma', icon: PhpLogo, color: 'text-bg-secondary' },
         ],
-        urlProject: 'https://thebrightcourse.com',
+        urlProject: '#',
       },
+
     ],
   }),
   getters: {},
