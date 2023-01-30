@@ -40,8 +40,8 @@
         ></span>
       </div>
       <p class="text-copyright">
-        ©2022 Okriiza • All rights reserved • Made With
-        <i class="fas fa-heart text-pink"></i> in Bandung
+        ©2023 Okriiza • All rights reserved • Made With
+        <i class="fas fa-heart text-pink"></i> in Bekasi
       </p>
     </div>
   </footer>
