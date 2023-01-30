@@ -15,7 +15,7 @@ export const useProjectStore = defineStore('project', {
   state: () => ({
     projects: [
       {
-        id: 1,
+        id: 3,
         name: 'Sistem Informasi Inventory',
         description:
           'Website ini terdapat fitur kelola produk, transaksi, laporan transaksi barang masuk dan keluar, print faktur.',
@@ -48,7 +48,7 @@ export const useProjectStore = defineStore('project', {
         urlProject: 'https://ramawisata.netlify.app/',
       },
       {
-        id: 3,
+        id: 1,
         name: 'Lembaga Bimbingan The Bright Karawang ',
         description:
           'Website yang terdapat fitur Sistem Absensi, Penggajian Karyawan dan halaman landing page',
