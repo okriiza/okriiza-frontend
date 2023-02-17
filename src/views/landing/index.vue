@@ -200,6 +200,45 @@
           </div>
         </div>
       </div>
+
+      <div class="text-center mb-3 pt-4">
+        <p class="text-pink sub-title-project">My Project</p>
+        <h2 class="title-project">Github Repo</h2>
+      </div>
+      <div class="container mt-5">
+        <div class="row d-flex justify-content-center">
+          <div class="col-lg-4 me-3 mb-3">
+            <a
+              href="https://github.com/okriiza/vue-3-composition-api-pinia-with-auth-image-example"
+              ><img
+                src="https://gh-card.dev/repos/okriiza/vue-3-composition-api-pinia-with-auth-image-example.svg?fullname="
+                width="100%"
+            /></a>
+          </div>
+          <div class="col-lg-4 me-3 mb-3">
+            <a
+              href="https://github.com/okriiza/laravel-9-crud-api-with-auth-image"
+              ><img
+                src="https://gh-card.dev/repos/okriiza/laravel-9-crud-api-with-auth-image.svg?fullname="
+                width="100%"
+            /></a>
+          </div>
+          <div class="col-lg-4 me-3 mb-3">
+            <a href="https://github.com/okriiza/Vue-3-Code-Snippets"
+              ><img
+                src="https://gh-card.dev/repos/okriiza/Vue-3-Code-Snippets.svg?fullname="
+                width="100%"
+            /></a>
+          </div>
+          <div class="col-lg-4 me-3 mb-3">
+            <a href="https://github.com/okriiza/Rens-Theme"
+              ><img
+                src="https://gh-card.dev/repos/okriiza/Rens-Theme.svg?fullname="
+                width="100%"
+            /></a>
+          </div>
+        </div>
+      </div>
     </section>
     <section class="section-blog">
       <div class="text-center mb-5 pt-4">
