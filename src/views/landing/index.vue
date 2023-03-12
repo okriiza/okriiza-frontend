@@ -207,7 +207,7 @@
       </div>
       <div class="container mt-5">
         <div class="row d-flex justify-content-center">
-          <div class="col-lg-4 me-3 mb-3">
+          <!-- <div class="col-lg-4 me-3 mb-3">
             <a
               href="https://github.com/okriiza/vue-3-composition-api-pinia-with-auth-image-example"
               ><img
@@ -222,7 +222,7 @@
                 src="https://gh-card.dev/repos/okriiza/laravel-9-crud-api-with-auth-image.svg?fullname="
                 width="100%"
             /></a>
-          </div>
+          </div> -->
           <div class="col-lg-4 me-3 mb-3">
             <a href="https://github.com/okriiza/Vue-3-Code-Snippets"
               ><img
